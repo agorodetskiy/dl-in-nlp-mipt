@@ -1,0 +1,7 @@
+*
+!*/
+!.gitignore
+
+.ipynb_checkpoints/
+
+!*.ipynb
