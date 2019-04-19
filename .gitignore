@@ -6,4 +6,6 @@
 
 !*.ipynb
 !*.py
+!*.jpg
+
 /training_ground.ipynb
